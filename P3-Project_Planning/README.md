@@ -24,9 +24,6 @@ Project Tracker
 
 ###########################################################
 
-### Wireframes
-
-
 ### Project Tracker
 
 Project Tracker - Trello - [Trello](https://trello.com/b/AVLhRw7Z)
@@ -34,6 +31,13 @@ Project Tracker - Trello - [Trello](https://trello.com/b/AVLhRw7Z)
 ### Project Repo Link
 
 https://github.com/sherryde/balcony-on-church
+###### or formatted
+[github liftoff project](https://github.com/sherryde/balcony-on-church)
+
+
+### Wireframes
+
+[Color palette](https://coolors.co/fdfdfd-adadad-eac168-aa000e-2f2f2f)
 
 ![Resources img 1](/Resources/img/balconyonchurc-wf.tiff)
 
